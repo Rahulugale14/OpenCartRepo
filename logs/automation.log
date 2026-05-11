@@ -1,0 +1,11 @@
+00:14:26.621 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
+00:14:26.978 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Administrator\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+00:14:30.320 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+00:14:30.425 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+00:14:30.767 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+00:14:30.769 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+00:14:31.430 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+00:14:32.456 [main] ERROR testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
+00:14:32.457 [main] DEBUG testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...

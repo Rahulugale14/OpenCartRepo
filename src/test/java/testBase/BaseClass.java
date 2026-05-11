@@ -1,6 +1,8 @@
 package testBase;
 
 import org.apache.commons.lang3.RandomStringUtils;
+import org.apache.logging.log4j.LogManager;         //this is to do manually after adding log4j2 to this class
+import org.apache.logging.log4j.Logger;             //this is to do manually after adding log4j2 to this class
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -13,9 +15,13 @@ import java.time.Duration;
 public class BaseClass {
 
     public WebDriver driver;
+    public Logger logger;                      //Log4J2
 
     @BeforeClass
     public void setUp() {
+
+        logger = LogManager.getLogger(this.getClass());             //Log4J2
+
         driver = new ChromeDriver();
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
