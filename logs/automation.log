@@ -1,11 +1,42 @@
-00:14:26.621 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml"
-00:14:26.978 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
-  C:\Users\Administrator\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+10:17:19.078 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\master.xml"
+10:17:19.380 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+10:17:19.388 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:17:19.390 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.390 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.392 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.392 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.393 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.394 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.401 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+10:17:19.419 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 17 ms.
+10:17:19.420 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.421 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.422 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.423 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.424 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.424 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.427 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.427 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.428 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.428 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.433 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.433 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.434 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.434 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.436 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.437 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.439 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.439 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.439 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:17:19.439 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:17:19.443 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\Administrator\IdeaProjects\OpenCartV121\master.xml
 
-00:14:30.320 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-00:14:30.425 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-00:14:30.767 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-00:14:30.769 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-00:14:31.430 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-00:14:32.456 [main] ERROR testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
-00:14:32.457 [main] DEBUG testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
+10:17:19.455 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+10:17:25.169 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+10:17:25.295 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+10:17:25.700 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+10:17:25.705 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+10:17:28.207 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+10:17:28.596 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+10:17:29.226 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4c27d39d: 0 ms

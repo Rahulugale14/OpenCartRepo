@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite" parallel = "tests">
+
+
+    <test verbose="2" preserve-order="true" name="chrometest">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC01_AccountRegistrationTest"/>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="firefoxtest">
+        <parameter name="os" value="windows"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testCases.TC01_AccountRegistrationTest"/>
+        </classes>
+    </test>
+
+
+</suite>
