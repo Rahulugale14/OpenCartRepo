@@ -2,13 +2,13 @@
 00:14:26.978 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
   C:\Users\Administrator\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
 
-00:14:30.320 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-00:14:30.425 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-00:14:30.767 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-00:14:30.769 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-00:14:31.430 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-00:14:32.456 [main] ERROR testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
-00:14:32.457 [main] DEBUG testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
+00:14:30.320 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+00:14:30.425 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+00:14:30.767 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+00:14:30.769 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+00:14:31.430 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+00:14:32.456 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
+00:14:32.457 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
 09:46:19.400 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml"
 09:46:19.787 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
 09:46:19.792 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
@@ -44,13 +44,13 @@
   C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml
 
 09:46:19.875 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-09:46:36.251 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:46:36.418 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:46:36.839 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:46:36.843 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:46:39.486 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:46:39.713 [main] ERROR testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
-09:46:39.714 [main] DEBUG testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
+09:46:36.251 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:46:36.418 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:46:36.839 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:46:36.843 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:46:39.486 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:46:39.713 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
+09:46:39.714 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
 09:46:40.085 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3eed0f5: 0 ms
 09:47:10.541 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml"
 09:47:10.905 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
@@ -87,13 +87,13 @@
   C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml
 
 09:47:11.003 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
-09:47:14.267 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:47:14.486 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:47:15.341 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:47:15.344 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:47:23.971 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:47:24.140 [main] ERROR testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
-09:47:24.142 [main] DEBUG testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
+09:47:14.267 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:47:14.486 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:47:15.341 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:47:15.344 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:47:23.971 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:47:24.140 [main] ERROR testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:43)oggger - Test failed...
+09:47:24.142 [main] DEBUG testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:44)oggger - Debug logs...
 09:47:24.584 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1ecfcbc9: 1 ms
 09:48:07.362 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml"
 09:48:07.695 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
@@ -130,12 +130,12 @@
   C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml
 
 09:48:07.792 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
-09:48:11.350 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:48:11.536 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:48:12.247 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:48:12.250 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:48:15.850 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:48:16.075 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+09:48:11.350 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:48:11.536 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:48:12.247 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:48:12.250 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:48:15.850 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:48:16.075 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
 09:48:16.416 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@878537d: 0 ms
 09:48:30.939 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml"
 09:48:31.281 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
@@ -172,12 +172,12 @@
   C:\Users\Administrator\IdeaProjects\OpenCartV121\testng.xml
 
 09:48:31.365 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-09:48:39.736 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:48:40.041 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:48:40.620 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:48:40.622 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:48:43.224 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:48:43.516 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+09:48:39.736 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:48:40.041 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:48:40.620 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:48:40.622 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:48:43.224 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:48:43.516 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
 09:48:45.097 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bcbf05b: 0 ms
 09:54:17.237 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\crossbrowsertesting.xml"
 09:54:46.583 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\crossbrowsertesting.xml"
@@ -248,19 +248,19 @@
   C:\Users\Administrator\IdeaProjects\OpenCartV121\crossbrowsertesting.xml
 
 09:56:20.425 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
-09:56:24.648 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:56:24.832 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:56:25.268 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:56:25.272 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:56:28.419 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:56:28.614 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+09:56:24.648 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:56:24.832 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:56:25.268 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:56:25.272 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:56:28.419 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:56:28.614 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
 09:56:28.970 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
-09:56:35.411 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:56:35.692 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:56:36.239 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:56:36.242 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:56:38.374 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:56:38.703 [main] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+09:56:35.411 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:56:35.692 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:56:36.239 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:56:36.242 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:56:38.374 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:56:38.703 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
 09:56:39.973 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5e2f3be5: 1 ms
 09:59:11.744 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\Administrator\IdeaProjects\OpenCartV121\crossbrowsertesting.xml"
 09:59:12.122 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
@@ -329,16 +329,16 @@
 09:59:12.240 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [ThreadUtil] Starting executor timeOut:2147483647ms workers:2 threadPoolSize:5
 09:59:12.265 [TestNG-tests-2] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
 09:59:12.265 [TestNG-tests-1] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
-09:59:16.846 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:59:17.935 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:59:18.727 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:59:18.885 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:59:21.191 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
-09:59:21.480 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
-09:59:22.285 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
-09:59:22.288 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
-09:59:22.816 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:59:23.049 [TestNG-tests-1] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
-09:59:24.751 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
-09:59:24.999 [TestNG-tests-2] INFO  testCases.TC01_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+09:59:16.846 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:59:17.935 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:59:18.727 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:59:18.885 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:59:21.191 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:14)oggger - *** Starting test case TC01_AccountRegistrationTest --> to verify Account Registration Test ***
+09:59:21.480 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:19)oggger - Clicked on MyAccount link
+09:59:22.285 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:21)oggger - Clicked on Register link
+09:59:22.288 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:24)oggger - Providing customer details
+09:59:22.816 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:59:23.049 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
+09:59:24.751 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:37)oggger - Validating expected message...
+09:59:24.999 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC01_AccountRegistrationTest.java:53)oggger - *** Finished test case TC01_AccountRegistrationTest ***
 09:59:27.056 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@22bac7bc: 0 ms

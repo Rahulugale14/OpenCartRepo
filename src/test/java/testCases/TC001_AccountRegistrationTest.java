@@ -6,7 +6,7 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC01_AccountRegistrationTest extends BaseClass {
+public class TC001_AccountRegistrationTest extends BaseClass {
 
     @Test
     public void verify_account_registration() {
